@@ -1,0 +1,215 @@
+#title {
+    background-color:aqua;
+    padding-bottom: 10%;
+}
+
+.container-fluid {
+    padding: 3% 10%; 
+}
+
+.intro {
+    padding-top: 5%;
+}
+.btn {
+    font-family: "Karla";
+}
+
+h1 {
+    font-family: 'Karla';
+    font-weight: bold;
+    font-size: 3rem; 
+    line-height: 1.5;
+}
+
+h2 {
+    font-family: 'Karla';
+    font-size: 1.8rem; 
+    line-height: 1.5;
+}
+
+a:link {
+    color:black; 
+  }
+
+  a:visited{
+    color: black; 
+  }
+
+.resume-button {
+    margin: 5% 3% 5% 0%;
+    
+}
+  .resume-button:hover {
+    background-color:rgb(69, 186, 232);
+  }
+
+
+.navbar-name {
+    font-family: "Merriweather";
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-family: 'Poppins';
+    font-size: 1.2rem; 
+}
+.me-image {
+    display: block;
+    margin: auto;
+    padding-top: 5%;
+    border-radius: 35%;
+    width: 125%;
+}
+
+#aboutme {
+    background-color: rgb(207, 248, 248); 
+    padding-top: 2%;
+
+}
+.aboutmetitle {
+    margin: 0 auto;
+    text-align: center; 
+    font-family: "Karla";
+    font-size: 3.5rem;
+}
+
+.aboutmebody {
+    font-family: "Karla";
+    margin-left: 30px;
+    font-size: 1.5rem;
+    padding-top: 2%;
+}
+
+.contact {
+    font-family: "Karla";
+    margin-left: 30px;
+    font-size: 1.0rem;
+    padding-top: 2%;
+}
+
+#skills {
+    background-color: aqua;
+    padding: 5%;
+}
+
+
+.cheader {
+    text-align: center;
+    font-family: "Karla";
+    font-weight: bold;
+    font-size: 3.0rem;
+    
+}
+
+.card-header {
+    background-color: rgb(87, 237, 227)
+}
+
+.skills-header {
+    margin: 0 auto;
+    text-align: center; 
+    font-family: "Karla";
+    font-size: 3.5rem;
+    padding-bottom: 5%;
+}
+
+.html-image {
+    display: block;
+    margin: auto;
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.css-image {
+    display: block;
+    margin: auto;
+    height: 50%;
+    width: 50%;
+    border-radius: 50%;
+}
+
+.javascript-image {
+    display: block;
+    margin: auto;
+    height: 80%;
+    width: 80%;
+    border-radius: 50%;
+}
+
+.bootstrap-image {
+    display: block;
+    margin: auto;
+    height: 70%;
+    width: 70%;
+    border-radius: 50%;
+}
+
+.figmalogo-image {
+    display: block;
+    margin: auto;
+    height: 60%;
+    width: 65%;
+    border-radius: 50%;
+}
+
+
+
+#projects {
+    background-color: rgb(207, 248, 248);
+}
+
+.projecttext {
+    text-align: center; 
+    font-family: "Karla";
+    font-size: 3.0rem;
+    font-weight: bold;
+
+}
+
+.projectdes {
+    text-align: center;
+    font-family: "Karla";
+    font-size: 1.5rem;
+    padding-top: 2%;
+}
+.figma-image {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    height: 30%;
+    width: 30%;
+    border-radius: 10%;
+}
+
+.studybuddy-image {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    height: 100%;
+    width: 80%;
+    border-radius: 10%;
+}
+
+.schedule-image {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    height: 100%;
+    width: 80%;
+    border-radius: 10%;
+}
+
+.weddingplanner-image {
+    display: block;
+    margin: auto;
+    padding-top: 3%;
+    height: 50%;
+    width: 50%;
+    border-radius: 10%;
+}
+
